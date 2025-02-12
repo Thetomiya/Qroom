@@ -1,0 +1,65 @@
+[2024-11-24 13:02:23] Запущен скрипт process_initdata.php
+[2024-11-24 13:02:23] Полученные данные: Array
+(
+    [initData] => query_id=AAGCEtogAAAAAIIS2iDp1Us1&user=%7B%22id%22%3A551162498%2C%22first_name%22%3A%22que%3F%20%E2%96%AA%EF%B8%8F%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22ttmiya%22%2C%22language_code%22%3A%22ru%22%2C%22allows_write_to_pm%22%3Atrue%2C%22photo_url%22%3A%22https%3A%5C%2F%5C%2Ft.me%5C%2Fi%5C%2Fuserpic%5C%2F320%5C%2Foj8AQkqpeNml_gm_7S7ccK02gfu0zkv7CBsvSGt-p0g.svg%22%7D&auth_date=1732440121&signature=wL5vgwlRLxsUCWFUjzrEFHOipfCFR8Sga46rrHhEVkh5CMYAG5uON_Q0tWAfQGNT3TlSOR-nvqdmFr2AcfSvCw&hash=e04a934f968db89dcc4e2eb04ea09f1d03f478153f5155365133baaa4f519c6f
+)
+
+[2024-11-24 13:02:23] initData: query_id=AAGCEtogAAAAAIIS2iDp1Us1&user=%7B%22id%22%3A551162498%2C%22first_name%22%3A%22que%3F%20%E2%96%AA%EF%B8%8F%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22ttmiya%22%2C%22language_code%22%3A%22ru%22%2C%22allows_write_to_pm%22%3Atrue%2C%22photo_url%22%3A%22https%3A%5C%2F%5C%2Ft.me%5C%2Fi%5C%2Fuserpic%5C%2F320%5C%2Foj8AQkqpeNml_gm_7S7ccK02gfu0zkv7CBsvSGt-p0g.svg%22%7D&auth_date=1732440121&signature=wL5vgwlRLxsUCWFUjzrEFHOipfCFR8Sga46rrHhEVkh5CMYAG5uON_Q0tWAfQGNT3TlSOR-nvqdmFr2AcfSvCw&hash=e04a934f968db89dcc4e2eb04ea09f1d03f478153f5155365133baaa4f519c6f
+[2024-11-24 13:02:23] Hash Received: e04a934f968db89dcc4e2eb04ea09f1d03f478153f5155365133baaa4f519c6f
+[2024-11-24 13:02:23] Hash Calculated: 33313737376135323536373961623938353466373266646135356565653537316531303431376234653234303237303161323032366233623632666435646261
+[2024-11-24 13:02:23] Ошибка: Invalid data received
+[2024-11-24 13:07:24] Запущен скрипт process_initdata.php
+[2024-11-24 13:07:24] Полученные данные: Array
+(
+    [initData] => query_id=AAGCEtogAAAAAIIS2iDp1Us1&user=%7B%22id%22%3A551162498%2C%22first_name%22%3A%22que%3F%20%E2%96%AA%EF%B8%8F%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22ttmiya%22%2C%22language_code%22%3A%22ru%22%2C%22allows_write_to_pm%22%3Atrue%2C%22photo_url%22%3A%22https%3A%5C%2F%5C%2Ft.me%5C%2Fi%5C%2Fuserpic%5C%2F320%5C%2Foj8AQkqpeNml_gm_7S7ccK02gfu0zkv7CBsvSGt-p0g.svg%22%7D&auth_date=1732440121&signature=wL5vgwlRLxsUCWFUjzrEFHOipfCFR8Sga46rrHhEVkh5CMYAG5uON_Q0tWAfQGNT3TlSOR-nvqdmFr2AcfSvCw&hash=e04a934f968db89dcc4e2eb04ea09f1d03f478153f5155365133baaa4f519c6f
+)
+
+[2024-11-24 13:07:24] initData: query_id=AAGCEtogAAAAAIIS2iDp1Us1&user=%7B%22id%22%3A551162498%2C%22first_name%22%3A%22que%3F%20%E2%96%AA%EF%B8%8F%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22ttmiya%22%2C%22language_code%22%3A%22ru%22%2C%22allows_write_to_pm%22%3Atrue%2C%22photo_url%22%3A%22https%3A%5C%2F%5C%2Ft.me%5C%2Fi%5C%2Fuserpic%5C%2F320%5C%2Foj8AQkqpeNml_gm_7S7ccK02gfu0zkv7CBsvSGt-p0g.svg%22%7D&auth_date=1732440121&signature=wL5vgwlRLxsUCWFUjzrEFHOipfCFR8Sga46rrHhEVkh5CMYAG5uON_Q0tWAfQGNT3TlSOR-nvqdmFr2AcfSvCw&hash=e04a934f968db89dcc4e2eb04ea09f1d03f478153f5155365133baaa4f519c6f
+[2024-11-24 13:07:24] Hash Received: e04a934f968db89dcc4e2eb04ea09f1d03f478153f5155365133baaa4f519c6f
+[2024-11-24 13:07:24] Hash Calculated: 33313737376135323536373961623938353466373266646135356565653537316531303431376234653234303237303161323032366233623632666435646261
+[2024-11-24 13:07:24] Ошибка: Invalid data received
+[2024-11-24 13:08:46] Запущен скрипт process_initdata.php
+[2024-11-24 13:08:46] Полученные данные: Array
+(
+    [initData] => query_id=AAGCEtogAAAAAIIS2iDp1Us1&user=%7B%22id%22%3A551162498%2C%22first_name%22%3A%22que%3F%20%E2%96%AA%EF%B8%8F%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22ttmiya%22%2C%22language_code%22%3A%22ru%22%2C%22allows_write_to_pm%22%3Atrue%2C%22photo_url%22%3A%22https%3A%5C%2F%5C%2Ft.me%5C%2Fi%5C%2Fuserpic%5C%2F320%5C%2Foj8AQkqpeNml_gm_7S7ccK02gfu0zkv7CBsvSGt-p0g.svg%22%7D&auth_date=1732440121&signature=wL5vgwlRLxsUCWFUjzrEFHOipfCFR8Sga46rrHhEVkh5CMYAG5uON_Q0tWAfQGNT3TlSOR-nvqdmFr2AcfSvCw&hash=e04a934f968db89dcc4e2eb04ea09f1d03f478153f5155365133baaa4f519c6f
+)
+
+[2024-11-24 13:08:46] initData: query_id=AAGCEtogAAAAAIIS2iDp1Us1&user=%7B%22id%22%3A551162498%2C%22first_name%22%3A%22que%3F%20%E2%96%AA%EF%B8%8F%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22ttmiya%22%2C%22language_code%22%3A%22ru%22%2C%22allows_write_to_pm%22%3Atrue%2C%22photo_url%22%3A%22https%3A%5C%2F%5C%2Ft.me%5C%2Fi%5C%2Fuserpic%5C%2F320%5C%2Foj8AQkqpeNml_gm_7S7ccK02gfu0zkv7CBsvSGt-p0g.svg%22%7D&auth_date=1732440121&signature=wL5vgwlRLxsUCWFUjzrEFHOipfCFR8Sga46rrHhEVkh5CMYAG5uON_Q0tWAfQGNT3TlSOR-nvqdmFr2AcfSvCw&hash=e04a934f968db89dcc4e2eb04ea09f1d03f478153f5155365133baaa4f519c6f
+[2024-11-24 13:08:46] data checking str: auth_date=1732440121
+query_id=AAGCEtogAAAAAIIS2iDp1Us1
+signature=wL5vgwlRLxsUCWFUjzrEFHOipfCFR8Sga46rrHhEVkh5CMYAG5uON_Q0tWAfQGNT3TlSOR-nvqdmFr2AcfSvCw
+user={"id":551162498,"first_name":"que? ▪️","last_name":"","username":"ttmiya","language_code":"ru","allows_write_to_pm":true,"photo_url":"https:\/\/t.me\/i\/userpic\/320\/oj8AQkqpeNml_gm_7S7ccK02gfu0zkv7CBsvSGt-p0g.svg"}
+
+[2024-11-24 13:08:46] Hash Received: e04a934f968db89dcc4e2eb04ea09f1d03f478153f5155365133baaa4f519c6f
+[2024-11-24 13:08:46] Hash Calculated: 33313737376135323536373961623938353466373266646135356565653537316531303431376234653234303237303161323032366233623632666435646261
+[2024-11-24 13:08:46] Ошибка: Invalid data received
+[2024-11-24 13:10:38] Запущен скрипт process_initdata.php
+[2024-11-24 13:10:38] Полученные данные: Array
+(
+    [initData] => query_id=AAGCEtogAAAAAIIS2iDp1Us1&user=%7B%22id%22%3A551162498%2C%22first_name%22%3A%22que%3F%20%E2%96%AA%EF%B8%8F%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22ttmiya%22%2C%22language_code%22%3A%22ru%22%2C%22allows_write_to_pm%22%3Atrue%2C%22photo_url%22%3A%22https%3A%5C%2F%5C%2Ft.me%5C%2Fi%5C%2Fuserpic%5C%2F320%5C%2Foj8AQkqpeNml_gm_7S7ccK02gfu0zkv7CBsvSGt-p0g.svg%22%7D&auth_date=1732440121&signature=wL5vgwlRLxsUCWFUjzrEFHOipfCFR8Sga46rrHhEVkh5CMYAG5uON_Q0tWAfQGNT3TlSOR-nvqdmFr2AcfSvCw&hash=e04a934f968db89dcc4e2eb04ea09f1d03f478153f5155365133baaa4f519c6f
+)
+
+[2024-11-24 13:10:38] initData: query_id=AAGCEtogAAAAAIIS2iDp1Us1&user=%7B%22id%22%3A551162498%2C%22first_name%22%3A%22que%3F%20%E2%96%AA%EF%B8%8F%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22ttmiya%22%2C%22language_code%22%3A%22ru%22%2C%22allows_write_to_pm%22%3Atrue%2C%22photo_url%22%3A%22https%3A%5C%2F%5C%2Ft.me%5C%2Fi%5C%2Fuserpic%5C%2F320%5C%2Foj8AQkqpeNml_gm_7S7ccK02gfu0zkv7CBsvSGt-p0g.svg%22%7D&auth_date=1732440121&signature=wL5vgwlRLxsUCWFUjzrEFHOipfCFR8Sga46rrHhEVkh5CMYAG5uON_Q0tWAfQGNT3TlSOR-nvqdmFr2AcfSvCw&hash=e04a934f968db89dcc4e2eb04ea09f1d03f478153f5155365133baaa4f519c6f
+[2024-11-24 13:10:38] data checking str: auth_date=1732440121
+query_id=AAGCEtogAAAAAIIS2iDp1Us1
+signature=wL5vgwlRLxsUCWFUjzrEFHOipfCFR8Sga46rrHhEVkh5CMYAG5uON_Q0tWAfQGNT3TlSOR-nvqdmFr2AcfSvCw
+user={"id":551162498,"first_name":"que? ▪️","last_name":"","username":"ttmiya","language_code":"ru","allows_write_to_pm":true,"photo_url":"https:\/\/t.me\/i\/userpic\/320\/oj8AQkqpeNml_gm_7S7ccK02gfu0zkv7CBsvSGt-p0g.svg"}
+
+[2024-11-24 13:10:38] Hash Received: e04a934f968db89dcc4e2eb04ea09f1d03f478153f5155365133baaa4f519c6f
+[2024-11-24 13:10:38] Hash Calculated: 31777a525679ab9854f72fda55eee571e10417b4e2402701a2026b3b62fd5dba
+[2024-11-24 13:10:38] Ошибка: Invalid data received
+[2024-11-24 13:11:01] Запущен скрипт process_initdata.php
+[2024-11-24 13:11:01] Полученные данные: Array
+(
+    [initData] => query_id=AAGCEtogAAAAAIIS2iDp1Us1&user=%7B%22id%22%3A551162498%2C%22first_name%22%3A%22que%3F%20%E2%96%AA%EF%B8%8F%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22ttmiya%22%2C%22language_code%22%3A%22ru%22%2C%22allows_write_to_pm%22%3Atrue%2C%22photo_url%22%3A%22https%3A%5C%2F%5C%2Ft.me%5C%2Fi%5C%2Fuserpic%5C%2F320%5C%2Foj8AQkqpeNml_gm_7S7ccK02gfu0zkv7CBsvSGt-p0g.svg%22%7D&auth_date=1732440121&signature=wL5vgwlRLxsUCWFUjzrEFHOipfCFR8Sga46rrHhEVkh5CMYAG5uON_Q0tWAfQGNT3TlSOR-nvqdmFr2AcfSvCw&hash=e04a934f968db89dcc4e2eb04ea09f1d03f478153f5155365133baaa4f519c6f
+)
+
+[2024-11-24 13:11:01] initData: query_id=AAGCEtogAAAAAIIS2iDp1Us1&user=%7B%22id%22%3A551162498%2C%22first_name%22%3A%22que%3F%20%E2%96%AA%EF%B8%8F%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22ttmiya%22%2C%22language_code%22%3A%22ru%22%2C%22allows_write_to_pm%22%3Atrue%2C%22photo_url%22%3A%22https%3A%5C%2F%5C%2Ft.me%5C%2Fi%5C%2Fuserpic%5C%2F320%5C%2Foj8AQkqpeNml_gm_7S7ccK02gfu0zkv7CBsvSGt-p0g.svg%22%7D&auth_date=1732440121&signature=wL5vgwlRLxsUCWFUjzrEFHOipfCFR8Sga46rrHhEVkh5CMYAG5uON_Q0tWAfQGNT3TlSOR-nvqdmFr2AcfSvCw&hash=e04a934f968db89dcc4e2eb04ea09f1d03f478153f5155365133baaa4f519c6f
+[2024-11-24 13:11:01] data checking str: auth_date=1732440121
+query_id=AAGCEtogAAAAAIIS2iDp1Us1
+signature=wL5vgwlRLxsUCWFUjzrEFHOipfCFR8Sga46rrHhEVkh5CMYAG5uON_Q0tWAfQGNT3TlSOR-nvqdmFr2AcfSvCw
+user={"id":551162498,"first_name":"que? ▪️","last_name":"","username":"ttmiya","language_code":"ru","allows_write_to_pm":true,"photo_url":"https:\/\/t.me\/i\/userpic\/320\/oj8AQkqpeNml_gm_7S7ccK02gfu0zkv7CBsvSGt-p0g.svg"}
+
+[2024-11-24 13:11:01] Hash Received: e04a934f968db89dcc4e2eb04ea09f1d03f478153f5155365133baaa4f519c6f
+[2024-11-24 13:11:01] Hash Calculated: 31777a525679ab9854f72fda55eee571e10417b4e2402701a2026b3b62fd5dba
+[2024-11-24 13:11:01] Ошибка: Invalid data received
